@@ -23,3 +23,9 @@
 <br /><br /><br /><br /><br /><br /><br />
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Alamin01&show_icons=true&locale=en" alt="muhammad" /></p>
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Alamin01&" alt="muhammad" /></p>
+
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://twitter.com/Muhamma21037073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muhammad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-al-amin01/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammad" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100024610068552" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="muhammad" height="30" width="40" /></a></p>
