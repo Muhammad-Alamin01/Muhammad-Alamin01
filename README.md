@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajauntor&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Muhamma21037073" target="blank"><img src="https://img.shields.io/twitter/follow/ajauntors?logo=twitter&style=for-the-badge" alt="ajauntors" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Muhamma21037073" target="blank"><img src="https://img.shields.io/twitter/follow/Muhamma21037073?logo=twitter&style=for-the-badge" alt="muhammad" /></a> </p>
 
 
 ✓ __Proficient:__ React.JS, JavaScript, ES6, Material-UI, SPA, Bootstrap, React Bootstrap, HTML5, CSS3, SASS.
